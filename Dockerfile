@@ -1,6 +1,6 @@
-FROM rogerpq/Repthon-_-:slim-buster
+FROM RepthonArabic/Repthon:slim-buster
 
-RUN git clone https://github.com/rogerpq/Repthon-_-.git /root/zthon
+RUN git clone https://github.com/RepthonArabic/Repthon.git /root/zthon
 
 WORKDIR /root/zthon
 
