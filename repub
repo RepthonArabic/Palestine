@@ -13,7 +13,7 @@ _get_ziplink () {
         then
             echo "${UPSTREAM_REPO}/archive/${UPSTREAM_REPO_BRANCH}.zip"
         else
-            echo "${UPSTREAM_REPO}/archive/Zara.zip"
+            echo "${UPSTREAM_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL1JlcHRob25BcmFiaWMvUmVwdGhvbkFyL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
@@ -44,8 +44,8 @@ _run_python_code() {
 _run_catpack_git() {
     $(_run_python_code 'from git import Repo
 import sys
-OFFICIAL_UPSTREAM_REPO = "https://github.com/rogerpq/L"
-ACTIVE_BRANCH_NAME = "main"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/RepthonArabic/RepthonAr"
+ACTIVE_BRANCH_NAME = "master"
 repo = Repo.init()
 origin = repo.create_remote("temponame", OFFICIAL_UPSTREAM_REPO)
 origin.fetch()
