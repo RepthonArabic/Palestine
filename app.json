@@ -1,0 +1,203 @@
+{
+
+
+  "name": "𝐑𝐞𝐩𝐭𝐡𝐨𝐧",
+
+
+  "description": "〔 سـورس ريبـــثون 𝐑𝐞𝐩𝐭𝐡𝐨𝐧 𓅛 〕التحـديث الجديـد افضـل سـورسـات تليثـون يـوزربـوت العربيـة : › عربـي بالكـامل › تحديثـات متواصـله › مبنـي ع آخـر اصـدار مـن لغـة بايثـون〔 Python 3.10.6 〕- مطـور السـورس : بــاقــر ",
+
+
+  "logo": "https://graph.org/file/b73fe77ccf5cbd708b8fa.jpg",
+
+
+  "keywords": [
+
+
+    "plugin",
+
+
+    "modular",
+
+
+    "productivity"
+
+
+  ],
+
+
+  "repository": "https://github.com/RepthonArabic/RepthonAr",
+
+
+  "website": "#TODO",
+
+
+  "success_url": "#TODO",
+
+
+  "env": {
+
+
+    "ALIVE_NAME": {
+
+
+      "description": "اســم حســـابك التلـي",
+
+
+      "value": ""
+
+
+    },
+
+
+    "APP_ID": {
+
+
+      "description": "كـود ايبي ايـدي〔 App id 〕الصغيـر", 
+
+
+      "value": ""
+
+
+    },
+
+
+    "API_HASH": {
+
+
+      "description": "كـود ايبي هـاش〔 Api hash 〕..",
+
+
+      "value": ""
+
+
+    },
+
+
+    "ENV": {
+
+
+      "description": "لا تغيــرهـــا",
+
+
+      "value": "ANYTHING"
+
+
+    },
+
+
+    "COMMAND_HAND_LER": {
+
+
+      "description": "لا تغيــرهـــا",
+
+
+      "value": "."
+
+
+    },
+
+
+    "STRING_SESSION": {
+
+
+      "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن حـافظـة حسـابـك",
+
+
+      "value": ""
+
+
+    },
+
+
+    "TG_BOT_TOKEN": {
+
+
+      "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
+
+
+      "value": ""
+
+
+    },
+
+
+    "HEROKU_API_KEY": {
+      "description": "كـــود مفتـــاح هيروكـــو - تروح ع الرابـط » https://dashboard.heroku.com/account  ع آخـر خانـه تضغط Reveal وتنسـخ الكـود لهنـا",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "اســـم التطبيـــق - نفـس اول مربـع بالقائمـة نسـخ لصـق حـروف انكلـش صغيـره",
+      "value": "",
+      "required": false
+    },
+    "TZ": {
+
+
+      "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
+
+
+      "value": "Asia/Baghdad",
+
+
+      "required": false
+
+
+    }
+
+
+  },
+
+
+  "addons": [{
+
+
+    "plan": "heroku-postgresql",
+
+
+    "options": {
+
+
+      "version": "12"
+
+
+    }
+
+
+  }],
+
+
+  "buildpacks": [{
+
+
+    "url": "https://github.com/Scalingo/python-buildpack"
+
+
+
+  },{
+
+
+    "url":"https://github.com/Scalingo/nodejs-buildpack.git"
+
+
+  },{
+
+
+    "url": "https://github.com/Scalingo/python-buildpack.git
+
+
+
+
+  },{
+
+
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+
+
+
+
+
+
+
+
+}
