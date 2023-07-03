@@ -9,7 +9,7 @@ To be safe fork this repo and then press deploy button from the forked repo
 
 Fork Deploy is highly recommended
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RepthonArabic/E_7_V><img src="https://img.shields.io/badge/DEPLOY-TO-HEROKU-BLACK?style=plastic&logo=heroku&logoColor=red"width="300"heigh="100" /></a></p>
+align="center">href="https://heroku.com/deltemplate=https://github.com/RepthonArabic/E_7_V><img src="https://img.shields.io/badge/DEPLOY-TO-HEROKU-BLACK?style=plastic&logo=heroku&logoColor=red"width="300"heigh="100"/></a></p>
 
 
 ## credits
