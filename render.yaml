@@ -9,7 +9,7 @@ services:
     name: Repthon
     env: python
     buildCommand: pip install -U -r requirements.txt
-    startCommand: python3 repth.py & bash start
+    startCommand: python3 repth.py & bash repub
     region: frankfurt
     envVars:
       - key: ALIVE_NAME
