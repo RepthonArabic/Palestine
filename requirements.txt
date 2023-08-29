@@ -1,13 +1,9 @@
 aiofiles
 aiohttp
-apscheduler
-cairosvg
-cinemagoer
 cloudscraper
 colour
 covid
 cowpy
-dataclasses
 DateTime
 emoji
 fonttools
@@ -29,12 +25,9 @@ justwatch
 lottie
 lyricsgenius
 markdown
-markdown-it-py
 motor
 moviepy
 nekos.py
-opencv-python-headless
-openai
 Pillow
 prettytable
 psutil
@@ -45,7 +38,6 @@ PyGithub
 pygments
 pylast
 pymediainfo
-PyMuPDF
 pySmartDL
 pytube
 python-barcode
@@ -71,11 +63,10 @@ user_agent
 validators
 vcsi
 wand
+wikipedia
 wget
 youtube-search
 yt-dlp==2023.7.6
-
 git+https://github.com/sandy1709/Telethon@beta
-git+https://github.com/goldsmith/Wikipedia
 git+https://github.com/sandy1709/py-googletrans
 git+https://github.com/alexmercerind/youtube-search-python
