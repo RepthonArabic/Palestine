@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 -m sbb_b
+python3 -m zthon
