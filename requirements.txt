@@ -74,6 +74,10 @@ wand
 wget
 youtube-search
 yt-dlp==2023.02.17
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
+pymongo[srv]==3.12.3
 
 git+https://github.com/sandy1709/Telethon@beta
 git+https://github.com/goldsmith/Wikipedia
