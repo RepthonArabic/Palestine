@@ -1,1 +1,1 @@
-worker: bash repub
+web: bash repub
