@@ -39,7 +39,7 @@ pygments
 pylast
 pymediainfo
 pySmartDL
-pytube==15.0.0
+pytube
 python-barcode
 python-dotenv
 pytz
