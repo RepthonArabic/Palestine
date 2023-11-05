@@ -62,12 +62,12 @@ urlextract
 user_agent
 validators
 vcsi
+wikipedia
 wand
 wget
 youtube-search
 yt-dlp==2023.9.24
 git+https://github.com/sandy1709/Telethon@beta
-git+https://github.com/goldsmith/Wikipedia
 git+https://github.com/sandy1709/py-googletrans
 git+https://github.com/yt-dlp/yt-dlp@master
 git+https://github.com/alexmercerind/youtube-search-python
