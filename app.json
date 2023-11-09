@@ -12,12 +12,12 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "كـود ايبي ايـدي〔 App id 〕الصغيـر",
-      "value": ""
+      "description": "كـود ايبي ايـدي〔 App id 〕الصغيـر .. 〔 لا تـغيـرها 〕",
+      "value": "13740761"
     },
     "API_HASH": {
-      "description": "كـود ايبي هـاش〔 Api hash 〕..",
-      "value": ""
+      "description": "كـود ايبي هـاش〔 Api hash 〕..〔 لا تـغيـرها 〕",
+      "value": "4ce319a92c01fab2b02551af8d7f73a4"
     },
     "STRING_SESSION": {
       "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
@@ -27,16 +27,6 @@
       "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
       "value": ""
     },
-    "COMMAND_HAND_LER": {
-      "description": "نقطـــة الاوامـــر〔 . 〕لا تغيــرهـــا",
-      "value": ".",
-      "required": false
-    },
-    "ENV": {
-      "description": "لا تغيــرهـــا",
-      "value": "ANYTHING",
-      "required": false
-    },
     "HEROKU_API_KEY": {
       "description": "كـــود مفتـــاح هيروكـــو - تروح ع الرابـط » https://dashboard.heroku.com/account  ع آخـر خانـه وتنسـخ الكـود لهنـا",
       "value": "",
@@ -45,11 +35,6 @@
     "HEROKU_APP_NAME": {
       "description": "اســـم التطبيـــق - نفـس اول مربـع بالقائمـة نسـخ لصـق حـروف انكلـش صغيـره",
       "value": "",
-      "required": false
-    },
-    "TZ": {
-      "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
-      "value": "Asia/Baghdad",
       "required": false
     }
   },
