@@ -7,10 +7,6 @@
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
-    "ALIVE_NAME": {
-      "description": "اســم حســـابك التلـي",
-      "value": ""
-    },
     "APP_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕..〔 لا تـغيـرها 〕",
       "value": "13740761"
