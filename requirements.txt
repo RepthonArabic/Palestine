@@ -50,6 +50,7 @@ python-dotenv
 pyTelegramBotAPI==3.7.7
 pytz
 pyrogram
+pyquery
 qrcode
 randomstuff.py
 regex
