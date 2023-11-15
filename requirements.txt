@@ -49,6 +49,7 @@ python-barcode
 python-dotenv
 pyTelegramBotAPI==3.7.7
 pytz
+pyrogram
 qrcode
 randomstuff.py
 regex
