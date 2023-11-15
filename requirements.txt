@@ -43,6 +43,7 @@ pytube==15.0.0
 python-barcode
 python-dotenv
 pytz
+pyrogram
 qrcode
 randomstuff.py
 regex
