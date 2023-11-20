@@ -5,6 +5,7 @@ wheel
 aiofiles
 aiohttp
 beautifulsoup4
+beaker
 cloudscraper
 colour
 covid
@@ -56,6 +57,7 @@ qrcode
 randomstuff.py
 regex
 requests
+redis
 search-engine-parser
 selenium
 ShazamAPI
