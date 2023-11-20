@@ -36,7 +36,8 @@
   },
   "addons": [{
     "plan": "rediscloud"
-    
+    "options": {
+      "version": "30"
   }],
   "buildpacks": [{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
