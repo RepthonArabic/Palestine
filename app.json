@@ -35,7 +35,7 @@
     }
   },
   "addons": [{
-    "plan": "heroku-postgresql",
+    "plan": "heroku-postgresql,heroku-redis",
     "options": {
       "version": "12"
     }
