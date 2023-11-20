@@ -34,12 +34,11 @@
       "required": false
     }
   },
-  "addons": {
-    "plan": "rediscloud"
+  "addons": [{
+    "plan": "rediscloud",
     "options": {
-      "version": "12"
+      "version": "30"
     }
-  
   }],
   "buildpacks": [{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
