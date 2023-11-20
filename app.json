@@ -34,11 +34,11 @@
       "required": false
     }
   },
-  "addons": [{
+  "addons": {
     "plan": "rediscloud"
     "options": {
-      "version": "30"
-  }
+      "version": "12"
+    }
   
   }],
   "buildpacks": [{
