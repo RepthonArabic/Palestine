@@ -35,7 +35,7 @@
     }
   },
   "addons": [{
-    "plan": "cloud-redis"
+    "plan": "redis-cloud"
   }],
   "buildpacks": [{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
