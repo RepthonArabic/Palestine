@@ -52,7 +52,6 @@ pyTelegramBotAPI==3.7.7
 pytz
 pyrogram
 pyquery
-py-tgcalls==1.0.1
 qrcode
 randomstuff.py
 regex
@@ -81,3 +80,4 @@ yt-dlp==2023.09.24
 youtube_dl
 git+https://github.com/buddhhu/img2html.git
 git+https://github.com/sandy1709/py-googletrans
+git+https://github.com/pytgcalls/pytgcalls
