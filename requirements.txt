@@ -1,4 +1,4 @@
-telethon==1.25.2
+telethon==1.32.1
 telethon-session-sqlalchemy
 setuptools
 wheel
@@ -52,7 +52,7 @@ pyTelegramBotAPI==3.7.7
 pytz
 pyrogram
 pyquery
-py-tgcalls==0.9.2
+py-tgcalls==1.0.1
 qrcode
 randomstuff.py
 regex
