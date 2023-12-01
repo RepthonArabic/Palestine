@@ -1,8 +1,0 @@
-api = "0.8"
-
-[buildpack]
-  id = "koyeb/build-command-nodejs"
-  version = "0.1.0"
-
-[[stacks]]
-  id = "*"
