@@ -34,4 +34,4 @@ services:
         fromDatabase:
           name: postgres
           property: connectionString   
-    autoDeploy: true
+    autoDeploy: false
