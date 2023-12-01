@@ -15,9 +15,9 @@ services:
       - key: ALIVE_NAME
         sync: false
       - key: APP_ID 
-        sync: false
+        value: 13740761
       - key: API_HASH 
-        sync: false
+        value: 4ce319a92c01fab2b02551af8d7f73a4
       - key: ENV 
         value: ANYTHING
       - key: STRING_SESSION
@@ -34,4 +34,4 @@ services:
         fromDatabase:
           name: postgres
           property: connectionString   
-    autoDeploy: false
+    autoDeploy: true
